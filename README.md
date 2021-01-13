@@ -1,3 +1,5 @@
+# SOLO - Segmenting Objects by Location 
+Original Paper: https://arxiv.org/pdf/1912.04488.pdf
 ### Instructions to run the code: 
 
 1. Dataset Plotting:  Run the dataset_plot.py file for visualizing the plot for the dataset. This gives specific colours for the three classes (vehicles,animals and people.
